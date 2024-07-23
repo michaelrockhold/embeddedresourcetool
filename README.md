@@ -56,9 +56,9 @@ There are three parts to this.
  Keep in mind that this is a verbatim copy of what was in the resource file you created at build time. For things
  like text files or even images, that might be all you need. For more interesting use cases, you may need to think
  about how to move program objects from one domain to another. You may find it convenient in these cases to 
- remember the (Codable)[https://developer.apple.com/documentation/swift/codable] protocol, and how to create Codable JSON structures.
- Or what about (grpc)[https://en.wikipedia.org/wiki/GRPC], when JSON can't cut it?
- Or (Thrift)[https://en.wikipedia.org/wiki/Apache_Thrift], for the deeply masochistic?
+ remember the [Codable](https://developer.apple.com/documentation/swift/codable) protocol, and how to create Codable JSON structures.
+ Or what about [grpc](https://en.wikipedia.org/wiki/GRPC), when JSON can't cut it?
+ Or [Thrift](https://en.wikipedia.org/wiki/Apache_Thrift), for the deeply masochistic?
 
 ## Who Did This?
-I'm Michael Rockhold, a coder in Seattle. I consult on projects for macOS and iOS, some embedded platforms, and some clouds. Have a look at my (resume)[https://michaelrockhold.github.io/CV/]! (A little out of date, actually. It's on my to-do list)
+I'm Michael Rockhold, a coder in Seattle. I consult on projects for macOS and iOS, some embedded platforms, and some clouds. Have a look at my [resume](https://michaelrockhold.github.io/CV/)! (A little out of date, actually. It's on my to-do list)
