@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "machokit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/p-x9/MachOKit.git",
+      "state" : {
+        "revision" : "55a08c5ce8a9115c279a25d17349753a520fb474",
+        "version" : "0.19.0"
+      }
+    }
+  ],
+  "version" : 2
+}
