@@ -1,6 +1,6 @@
 #  Embedded Resource Tool
 
-This tiny project demonstrates how to embedded arbitrary data resources 
+This tiny project demonstrates how to embed arbitrary data resources 
 into the binary file of a command-line tool. This demo is specific to
 applying this technique in the context of developing macOS or iOS tools,
 but the general principle is valid for Linux and Unixes; it's entirely
